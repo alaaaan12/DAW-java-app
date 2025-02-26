@@ -1,0 +1,82 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@argfile
+-classpath
+'C:/Users/adams/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar;C:/Users/adams/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar;C:/Users/adams/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/adams/.m2/repository/org/mariadb/jdbc/mariadb-java-client/3.5.1/mariadb-java-client-3.5.1.jar;C:/Users/adams/.m2/repository/com/github/waffle/waffle-jna/3.3.0/waffle-jna-3.3.0.jar;C:/Users/adams/.m2/repository/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar;C:/Users/adams/.m2/repository/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.jar;C:/Users/adams/.m2/repository/org/slf4j/jcl-over-slf4j/2.0.7/jcl-over-slf4j-2.0.7.jar;C:/Users/adams/.m2/repository/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar;C:/Users/adams/.m2/repository/com/github/ben-manes/caffeine/caffeine/2.9.3/caffeine-2.9.3.jar;C:/Users/adams/.m2/repository/com/google/errorprone/error_prone_annotations/2.10.0/error_prone_annotations-2.10.0.jar;C:/Users/adams/.m2/repository/org/checkerframework/checker-qual/3.32.0/checker-qual-3.32.0.jar;C:/Users/adams/.m2/repository/org/webjars/bootstrap/5.1.3/bootstrap-5.1.3.jar;C:/Users/adams/.m2/repository/org/webjars/popper.js/2.9.3/popper.js-2.9.3.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/adams/Documents/GitHub/DAW-java-app/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/adams/Documents/GitHub/DAW-java-app/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'llibreria Maven Webapp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'llibreria Maven Webapp 1.0-SNAPSHOT API'
+'C:/Users/adams/Documents/GitHub/DAW-java-app/src/main/java/Connexio.java'
+'C:/Users/adams/Documents/GitHub/DAW-java-app/src/main/java/ConnexioProva.java'
+'C:/Users/adams/Documents/GitHub/DAW-java-app/src/main/java/Consulta.java'
+'C:/Users/adams/Documents/GitHub/DAW-java-app/src/main/java/Eliminar.java'
+'C:/Users/adams/Documents/GitHub/DAW-java-app/src/main/java/Insertar.java'
+'C:/Users/adams/Documents/GitHub/DAW-java-app/src/main/java/Modificar.java'
+C:\Users\adams\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar = 1733855878099
+C:\Users\adams\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar = 1733855878323
+C:\Users\adams\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1733781056393
+C:\Users\adams\.m2\repository\org\mariadb\jdbc\mariadb-java-client\3.5.1\mariadb-java-client-3.5.1.jar = 1733780956328
+C:\Users\adams\.m2\repository\com\github\waffle\waffle-jna\3.3.0\waffle-jna-3.3.0.jar = 1733780954726
+C:\Users\adams\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar = 1733780957958
+C:\Users\adams\.m2\repository\net\java\dev\jna\jna-platform\5.13.0\jna-platform-5.13.0.jar = 1733780957428
+C:\Users\adams\.m2\repository\org\slf4j\jcl-over-slf4j\2.0.7\jcl-over-slf4j-2.0.7.jar = 1733780954899
+C:\Users\adams\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar = 1733780954912
+C:\Users\adams\.m2\repository\com\github\ben-manes\caffeine\caffeine\2.9.3\caffeine-2.9.3.jar = 1733780956328
+C:\Users\adams\.m2\repository\com\google\errorprone\error_prone_annotations\2.10.0\error_prone_annotations-2.10.0.jar = 1733780955274
+C:\Users\adams\.m2\repository\org\checkerframework\checker-qual\3.32.0\checker-qual-3.32.0.jar = 1733780955995
+C:\Users\adams\.m2\repository\org\webjars\bootstrap\5.1.3\bootstrap-5.1.3.jar = 1733780959352
+C:\Users\adams\.m2\repository\org\webjars\popper.js\2.9.3\popper.js-2.9.3.jar = 1733780957201
+C:\Users\adams\Documents\GitHub\DAW-java-app\src\main\java\Connexio.java = 1740596664717
+C:\Users\adams\Documents\GitHub\DAW-java-app\src\main\java\ConnexioProva.java = 1740596665795
+C:\Users\adams\Documents\GitHub\DAW-java-app\src\main\java\Consulta.java = 1740596667230
+C:\Users\adams\Documents\GitHub\DAW-java-app\src\main\java\Eliminar.java = 1740596668163
+C:\Users\adams\Documents\GitHub\DAW-java-app\src\main\java\Insertar.java = 1740596669147
+C:\Users\adams\Documents\GitHub\DAW-java-app\src\main\java\Modificar.java = 1740596669976
+C:\Users\adams\Documents\GitHub\DAW-java-app\src\main\java = 1740596109488
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\allclasses-index.html = 1740596686015
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\allpackages-index.html = 1740596686018
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\Connexio.html = 1740596685874
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\ConnexioProva.html = 1740596685887
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\Consulta.html = 1740596685911
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\copy.svg = 1740596686048
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\element-list = 1740596685949
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\Eliminar.html = 1740596685922
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\help-doc.html = 1740596686043
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\index-all.html = 1740596686033
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\index.html = 1740596686037
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\Insertar.html = 1740596685934
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\link.svg = 1740596686049
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\member-search-index.js = 1740596686023
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\Modificar.html = 1740596685946
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\module-search-index.js = 1740596686019
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\overview-tree.html = 1740596686002
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\package-search-index.js = 1740596686020
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\package-summary.html = 1740596685955
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\package-tree.html = 1740596685961
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\package-use.html = 1740596685997
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\script.js = 1740596686047
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\search-page.js = 1740596686056
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\search.html = 1740596686035
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\search.js = 1740596686051
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\serialized-form.html = 1740596685971
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\stylesheet.css = 1740596686045
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\tag-search-index.js = 1740596686023
+C:\Users\adams\Documents\GitHub\DAW-java-app\target\reports\apidocs\type-search-index.js = 1740596686022

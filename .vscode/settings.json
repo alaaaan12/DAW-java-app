@@ -1,0 +1,20 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "192.168.0.24",
+            "port": 3306,
+            "driver": "MariaDB",
+            "name": "llibres",
+            "database": "llibres",
+            "username": "usuari",
+            "connectionTimeout": 600000,
+            "password": "usuari123"
+        }
+    ]
+}
